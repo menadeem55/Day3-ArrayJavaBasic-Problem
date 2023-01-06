@@ -5,7 +5,7 @@ public class ArrayElement {
 	public static void main(String[] args) {
 
 		// initialize array
-		int[] array = new int[] { 1, 2, 3, 4, 5 };
+		int[] array = new int[] { 1, 2, 3, 4, 5 };	//array declaration
 		System.out.println("Element of given array: ");
 
 		// loop through the array by incrementing value of i
